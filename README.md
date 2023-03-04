@@ -1,3 +1,4 @@
+Amaya Cosper
 # 💫 About Me:
 I am currently working on expanding my knowledge in computer science and I am looking for a job that will help me do just that. I am currently going over MySQL, as I just earned my certification in full stack web development.  <br><br>Please don’t be scared to ask about the full stack web development bootcamp and what I learned! <br><br>Fun fact about me: I learned to type the password on my dad’s computer before I learned how to talk!<br>
 
